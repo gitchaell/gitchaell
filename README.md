@@ -6,8 +6,6 @@
 
 :thought_balloon: _Cualquiera puede escribir líneas de código, pero no cualquiera como un poeta inspirado_
 
----
-
 ### Contáctame
 
 [<img align="left" alt="gmail" width="22px" src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />][gmail]
@@ -24,7 +22,6 @@
 <br />
 <br />
 
- --- 
  
 ### Lenguajes y Herramientas
 
@@ -63,7 +60,6 @@
 <br />
 <br />
 
----
 
 ### Historia en Github
 
