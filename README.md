@@ -4,7 +4,7 @@
 
 ### Hola, soy Michaell 👋
 
-:thought_balloon: _Cualquiera puede escribir líneas de código, pero no cualquiera como un poeta inspirado_
+:thought_balloon: _El que codea último, codea mejor_
 
 ### Contáctame
 
