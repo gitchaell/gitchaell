@@ -3,9 +3,6 @@
 -->
 
 ### Hola, soy Michaell 👋
-
-:thought_balloon: _El que codea último, codea mejor_
-
 ### Contáctame
 
 [<img align="left" alt="gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][gmail]
