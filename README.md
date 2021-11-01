@@ -4,7 +4,7 @@
 
 ### Hola, soy Michaell 👋
 
-Un desarrollador TI con experiencia en la industria de aplicaciones web y móviles. Tengo experiencia en cada etapa de desarrollo de software, especialmente en análisis e implementaciones. Profesionalmente me encuentro aplicando mis conocimientos sobre Angular y GraphQL. También tengo experiencia trabajando con otras tecnologías como PHP, .NET y React.
+An IT developer with experience in the web and mobile applications industry. I have experience in every stage of software development, especially in analytics and implementations. Professionally I find myself applying my knowledge of Angular and GraphQL. I also have experience working with other technologies such as PHP, .NET, and React.
 
 ### Contáctame
 
