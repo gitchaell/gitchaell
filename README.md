@@ -1,43 +1,15 @@
-<!--
-**MichaellAlavedraMunayco/MichaellAlavedraMunayco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### Hola, soy Michaell 👋
-
-An IT developer with experience in the web and mobile applications industry. I have experience in every stage of software development, especially in analytics and implementations. Professionally I find myself applying my knowledge of Angular and GraphQL. I also have experience working with other technologies such as PHP, .NET, and React.
-
-### Contáctame
-
-[<img align="left" alt="gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][gmail]
-
-[<img align="left" alt="linkedin" width="22px" src="https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
-
-[<img align="left" alt="discord" width="22px" src="https://camo.githubusercontent.com/ebafeb8a236c07b9dda4c9b6288e533fed2d5c69/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />][discord]
-
-[<img align="left" alt="facebook" width="22px" src="https://camo.githubusercontent.com/e6d2040c65e8c6f4da10db72436cf9a1196e43ae/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />][facebook]
-
-[<img align="left" alt="instagram" width="22px" src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
- 
- 
-<br />
-<br />
-
-
-### Historia en Github
-
-[![Michaell Alavedra Munayco Github Stats](https://github-readme-stats.vercel.app/api?username=MichaellAlavedraMunayco&show_icons=true&count_private=true&locale=es)](github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaellAlavedraMunayco&langs_count=8&layout=compact&locale=es)](github)
-
-
-<br />
-<br />
-
-
 [github]: https://github.com/MichaellAlavedraMunayco
 [gmail]: mailto:f.michaell.a.m@gmail.com
 [linkedin]: https://www.linkedin.com/in/femicalamu/
-[discord]: https://discord.gg/NtRPkFwt
-[facebook]: https://www.facebook.com/michaell.alavedramunayco
-[instagram]: https://www.instagram.com/michaell.ml/
 
+> ## Hello, I'm Michaell, IT System Developer
+
+> I have about 3 years of experience as a **IT System Developer**, and I have worked on small and large scale projects that have had **excellent results**. 
+>
+> Although I have been involved in all stages of **software development**, I specialize in planning, including requirements analysis, **data models** and flows, **process modeling** and automation, software **architecture**, **UX/UI**, among others.
+>
+> I love **building** things and **learning** in the process. Although engineering problems are hard, they are often **fun** to tackle. I am very attracted to solving real customer **problems**. For me, they are **challenges** that help me become better at what I do.
+
+> You can communicate with me through my [email](gmail) or my [linkedin account](linkedin).
+ 
+[![Michaell Github Stats](https://github-readme-stats.vercel.app/api?username=MichaellAlavedraMunayco&show_icons=true&count_private=true&include_all_commits=true&locale=en)](github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaellAlavedraMunayco&langs_count=8&layout=compact&locale=en)](github)
