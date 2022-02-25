@@ -4,7 +4,7 @@
 
 > ## Hello, I'm Michaell, Information System Developer
 
-> I have 3 years within the computer industry accumulating **experience** and **knowledge**. Although I have been involved in every stage of software development, I specialize in planning, including **requirements analysis**, **data models** and flows, **process modeling** and automation, software **architecture**, **UX/UI**, among others.
+> I have 3 years within the IT sector accumulating **experience** and **knowledge** within every stage of software development, especially in **Web Applications**.
 > 
 > I love building things and learning in the process. Although engineering problems are hard, they are actually fun to tackle and leave you with good lessons. For me, they are challenges that help me become better at what I do.
 
