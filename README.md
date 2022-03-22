@@ -2,7 +2,7 @@
 [gmail]: mailto:f.michaell.a.m@gmail.com
 [linkedin]: https://www.linkedin.com/in/femicalamu/
 
-> ## Hello, I'm Michaell, Information System Developer
+> ## Hello, I'm Michaell!
 
 > I have 3 years within the IT sector accumulating **experience** and **knowledge** within every stage of software development, especially in **Web Applications**.
 > 
