@@ -2,11 +2,16 @@
 [gmail]: mailto:f.michaell.a.m@gmail.com
 [linkedin]: https://www.linkedin.com/in/femicalamu/
 
-> ## Hello, I'm Michaell!
 
-> I have 3 years within the IT sector accumulating **experience** and **knowledge** within every stage of software development, especially in **Web Applications**.
-> 
-> I love building things and learning in the process. Although engineering problems are hard, they are actually fun to tackle and leave you with good lessons. For me, they are challenges that help me become better at what I do.
+> Hi, I'm a **Front-End Developer** and my main motivation is to combine the art of **design** with the art of **programming**. Among my responsibilities are: 
+
+> (1) evaluate the technical feasibility of **UI/UX designs**, 
+
+> (2) develop functionalities prioritizing the **user experience**, 
+
+> (3) build **clean code**, reusable components and libraries, 
+
+> (4) optimize the **speed** and scalability of the application.
 
 > You can communicate with me through my [email](gmail) or my [linkedin account](linkedin).
 
