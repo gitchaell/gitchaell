@@ -3,15 +3,7 @@
 [linkedin]: https://www.linkedin.com/in/femicalamu/
 
 
-> Hi, I'm a **Front-End Developer** and my main motivation is to combine the art of **design** with the art of **programming**. Among my responsibilities are: 
-
-> (1) evaluate the technical feasibility of **UI/UX designs**, 
-
-> (2) develop functionalities prioritizing the **user experience**, 
-
-> (3) build **clean code**, reusable components and libraries, 
-
-> (4) optimize the **speed** and scalability of the application.
+> Hi, I'm a **Front-End Developer** and my main motivation is to combine the art of **design** with the art of **programming**. Among my responsibilities are: (1) evaluate the technical feasibility of **UI/UX designs**, (2) develop functionalities prioritizing the **user experience**, (3) build **clean code**, reusable components and libraries, (4) optimize the **speed** and scalability of the application.
 
 > You can communicate with me through my [email](gmail) or my [linkedin account](linkedin).
 
