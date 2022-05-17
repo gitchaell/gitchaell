@@ -10,5 +10,3 @@
 <!---
 [![Michaell Github Stats](https://github-readme-stats.vercel.app/api?username=MichaellAlavedraMunayco&show_icons=true&count_private=true&include_all_commits=true&locale=en)](github) 
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaellAlavedraMunayco&langs_count=8&layout=compact&locale=en)](github)
