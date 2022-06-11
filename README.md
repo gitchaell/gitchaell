@@ -3,9 +3,7 @@
 [linkedin]: https://www.linkedin.com/in/femicalamu/
 
 
-**Front-End Web Developer** with 3 years of experience, +2 years in **Angular**(Typescript/Javascript) and +1 year in **PHP**. 
-
-My main motivation is to develop creative and innovative digital solutions, combining my 2 passions: **design** and **programming**.
+Front-End Web Developer with +3 years of experience working with Angular 10+, Firebase and GraphQL. My main goal is to develop world-class and innovative software solutions, combining my 2 passions: design and programming.
 
 I have dedicated my time to work on both my personal and professional development; researching/acquiring new technical knowledge, and perfecting my productivity, leadership, and teamwork skills.
 
