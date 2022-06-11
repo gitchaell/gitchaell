@@ -3,11 +3,7 @@
 [linkedin]: https://www.linkedin.com/in/femicalamu/
 
 
-Front-End Web Developer with +3 years of experience working with Angular 10+, Firebase and GraphQL. My main goal is to develop world-class and innovative software solutions, combining my 2 passions: design and programming.
-
-I have dedicated my time to work on both my personal and professional development; researching/acquiring new technical knowledge, and perfecting my productivity, leadership, and teamwork skills.
-
-In the years that I have been working as a Web Developer, I have developed an application that helps companies to focus and align the execution of their strategic plan, and strengthen the achievement of their objectives.
+ront-End Web Developer with +3 years of experience working with Angular 10+, Firebase and GraphQL in the Strategy and Operations Consulting sector. My main goal is to develop world-class and innovative software solutions, combining my 2 passions: design and programming.
 
 To contact me by email, please write to: [f.michaell.a.m@gmail.com](gmail)
 
