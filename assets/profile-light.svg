@@ -1,12 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="330" viewBox="0 0 920 330" role="img" aria-labelledby="title desc">
-<title id="title">Michaell Alavedra — engineering terminal profile</title><desc id="desc">A compact terminal-inspired profile card with a small ASCII asterisk and engineering profile details.</desc>
+<title id="title">Michaell Alavedra — engineering terminal profile</title><desc id="desc">A compact terminal-inspired profile card with a compact ASCII bird artwork and engineering profile details.</desc>
 <rect x="1" y="1" width="918" height="328" rx="10" fill="#ffffff" stroke="#d0d7de"/>
 <path d="M1 42H919" stroke="#d0d7de"/>
 <circle cx="22" cy="21" r="5" fill="#ff5f56"/><circle cx="40" cy="21" r="5" fill="#ffbd2e"/><circle cx="58" cy="21" r="5" fill="#27c93f"/>
 <text x="82" y="26" fill="#656d76" font-family="SFMono-Regular,Consolas,monospace" font-size="12">michaell@engineering: ~</text>
 <g font-family="SFMono-Regular,Consolas,monospace">
-<g fill="#0969da" font-size="22" font-weight="700" text-anchor="middle">
-<text x="152" y="112">\ | /</text><text x="152" y="136"> \|/ </text><text x="152" y="160">---*---</text><text x="152" y="184"> /|\ </text><text x="152" y="208">/ | \</text>
+<g fill="#0969da" font-family="'DejaVu Sans Mono','Noto Sans Mono',monospace" font-size="6.25" font-weight="400" xml:space="preserve">
+<tspan x="36" y="62">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⣿⣿⢿⣿⣟⣿⣿⣻⣾⢿⣯⣿⣟⣳⡾⢿⣫⣽⣾⣿⣧⣾⢗</tspan>
+<tspan x="36" y="69.35">⠄⠄⠄⠄⠄⠄⠄⢀⣴⣿⣿⣿⣿⣃⣿⡿⣽⣟⣿⣽⣾⣟⣫⣴⣿⣾⡿⣿⣿⣿⣿⣳⣿⡿</tspan>
+<tspan x="36" y="76.7">⠄⠄⠄⠄⠄⠄⣰⣾⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡿⣧⣿⣵⣿⣿⣿⣟⣿⣿</tspan>
+<tspan x="36" y="84.05">⠄⠄⠄⠄⠄⢰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣷⣿⣿⣿⣽⣧⣯⣽⣿</tspan>
+<tspan x="36" y="91.4">⠄⠄⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣿⣿⣿⡿⠿⡿⠿⡿⣿⣿⣿⣿⣷⣾</tspan>
+<tspan x="36" y="98.75">⠄⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣻⣿⢿⣿⣿⣿⣿⡿⠛⠁⠄⠄⠄⠄⠄⢀⣾⣿⣿⡿⡿⠿</tspan>
+<tspan x="36" y="106.1">⠄⠄⠄⠄⢸⣿⣿⣿⢿⣿⣿⣾⣿⣻⣿⣾⣼⡟⠁⠄⠄⠄⠂⠄⠈⡄⠄⢸⣭⣥⣶⣂⣛⣏</tspan>
+<tspan x="36" y="113.44999999999999">⠄⠄⠄⠄⣐⢦⡌⡀⠊⠁⠿⣿⣾⣿⣿⢿⣿⣿⡄⠄⠠⣄⡠⠴⠁⢀⣿⣿⣿⣿⣿⣯⣿</tspan>
+<tspan x="36" y="120.8">⠄⠄⢀⣴⣞⢣⡿⣜⢦⠱⡌⢻⣿⣿⣯⣿⣯⣽⡿⣖⡄⣤⢀⣀⣠⣴⣾⣿⣼⣿⣿⣿⣿⣟</tspan>
+<tspan x="36" y="128.14999999999998">⠄⢠⣿⣿⡾⣏⣧⠯⠄⠁⠲⢌⢛⣿⢽⣯⣝⣽⢿⢽⣞⣳⡎⠽⠛⣿⣿⣷⣿⣿⣿⣿⣿⢿</tspan>
+<tspan x="36" y="135.5">⠄⣼⣿⡟⢴⠻⢀⠃⠄⠄⠄⠘⢀⡭⠶⠇⠄⠜⣛⢋⡯⡭⠽⠒⢘⠿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+<tspan x="36" y="142.85">⠄⣿⣿⢠⠃⠂⠁⠄⣀⢈⢁⠠⢎⣀⠤⠴⠛⠊⠈⣁⡀⣄⣤⣶⣿⣿⣟⣻⣿⣿⣿⣿⣏⣣</tspan>
+<tspan x="36" y="150.2">⢠⣿⣇⠂⠄⠄⠄⣰⠔⠊⢂⠖⠘⠁⠁⠤⡂⠂⠄⢈⣵⣿⣿⣿⣿⣿⣿⣛⣿⣿⣿⣿⣿⡿</tspan>
+<tspan x="36" y="157.55">⠘⣿⠆⠄⢀⣠⠟⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣀⣠⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣻</tspan>
+<tspan x="36" y="164.89999999999998">⠄⣿⠂⠄⠸⣁⠤⠤⠄⠈⠄⠄⢀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣽⣿⣿⣿</tspan>
+<tspan x="36" y="172.25">⠄⢻⡅⠄⡗⠄⠄⠄⠄⠄⢠⣾⣿⣿⣿⣿⣿⣿⣿⣻⡿⣿⣿⣾⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿</tspan>
+<tspan x="36" y="179.6">⠄⠈⣏⠐⠁⠄⠄⠄⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣯⡟⣿⠞⣿⣿⣿⣿⣿⣭⣿⣿⣿</tspan>
+<tspan x="36" y="186.95">⠄⠄⠸⡀⠄⠄⠄⠄⠄⠄⠐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢋⡼⣿⣍⣿⠾⣿⣿⣿⣿⣟⣷⣿</tspan>
+<tspan x="36" y="194.29999999999998">⠄⠄⠄⠱⠄⠄⠄⠄⠄⠄⠄⠚⠻⣿⣿⣿⣿⣏⣿⣿⣿⣞⡿⣟⣿⣞⣿⠹⡿⢿⣻⣿⣭⣟</tspan>
+<tspan x="36" y="201.65">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣤⣿⣿⣿⡯⣿⣻⣶⣻⡝⣿⠿⣿⣯⠟⡄⣿⣧⣹⣝⣿⣿</tspan>
 </g>
 <text x="36" y="235" fill="#656d76" font-size="11">BUILD • REVIEW • IMPROVE</text>
 <text x="36" y="259" fill="#1a7f37" font-size="11">[ SYSTEM ONLINE ]</text>
