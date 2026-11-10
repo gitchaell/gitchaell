@@ -1,6 +1,6 @@
 <!--
   GitHub profile README
-  Keep this page concise: identity, engineering focus, selected work, and a self-hosted metrics card.
+  Concise engineering profile with a theme-aware, self-generated metrics image.
 -->
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 **Software Engineer · Full-Stack Development · Software Architecture · Applied AI**
 
-Designing and building reliable software products — from interfaces and APIs to architecture, testing, and delivery.
+Building reliable software products — from interfaces and APIs to architecture, testing, and delivery.
 
 [Portfolio](https://www.michaellalavedra.com) · [GitHub](https://github.com/gitchaell)
 
@@ -19,53 +19,45 @@ Designing and building reliable software products — from interfaces and APIs t
 
 ### Engineering focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      **Product engineering**
+**Product engineering**
 
-      Frontend · Backend · Full Stack
+Frontend · Backend · Full Stack
 
-      TypeScript · JavaScript · React · Angular · Node.js · NestJS
-    </td>
-    <td width="50%" valign="top">
-      **Engineering foundations**
+TypeScript · JavaScript · React · Angular · Node.js · NestJS
 
-      Architecture · DDD · API design · Application security · QA & testing
+**Architecture & quality**
 
-      PostgreSQL · Firebase · AWS · GCP · Docker
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      **AI-assisted development**
+DDD · API design · Application security · QA & testing
 
-      Multi-agent workflows, custom skills, and human-led code review — using AI to improve delivery without outsourcing engineering judgment.
-    </td>
-  </tr>
-</table>
+PostgreSQL · Firebase · AWS · GCP · Docker
+
+**AI-assisted development**
+
+Multi-agent workflows · Custom skills · Human-led code review
+
+---
 
 ### Selected work
 
-| Project | What it does |
+| Project | Focus |
 | --- | --- |
-| [DevTrack](https://devtrack.michaellalavedra.com) | Private, minimalist developer-habits tracker |
-| [PlayTS](https://playts.michaellalavedra.com) | TypeScript playground with instant preview, diagrams, and sharing |
-| [Exavatar](https://exavatar.michaellalavedra.com) | Customizable avatar generation API |
-| [Angular VS Code Theme](https://marketplace.visualstudio.com/items?itemName=MichaellAlavedraMunayco.angular-theme) | Editor theme crafted for Angular development |
-| [Irdin](https://irdin.michaellalavedra.com) | A language and writing system project |
+| [DevTrack](https://devtrack.michaellalavedra.com) | Developer-habits tracker |
+| [PlayTS](https://playts.michaellalavedra.com) | TypeScript playground and editor |
+| [Exavatar](https://exavatar.michaellalavedra.com) | Avatar generation API |
+| [Angular VS Code Theme](https://marketplace.visualstudio.com/items?itemName=MichaellAlavedraMunayco.angular-theme) | VS Code theme for Angular developers |
+| [Irdin](https://irdin.michaellalavedra.com) | Language and writing system project |
 
 ### GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./metrics.svg">
-    <img alt="GitHub activity, languages, and contribution calendar" src="./metrics.svg" width="100%">
-  </picture>
+  <img
+    src="./metrics.svg"
+    alt="GitHub contribution calendar, programming language distribution, and coding habits"
+    width="100%"
+  />
 </p>
 
-<sub>Metrics are generated from public GitHub activity by GitHub Actions. Language proportions describe repository code, not personal proficiency.</sub>
+<sub>Automatically generated from public GitHub activity. Language percentages describe repository code, not personal proficiency.</sub>
 
 ---
 
@@ -73,6 +65,6 @@ Designing and building reliable software products — from interfaces and APIs t
 
 **Open to remote software engineering opportunities**
 
-[Website](https://www.michaellalavedra.com) · [Explore my repositories](https://github.com/gitchaell?tab=repositories)
+[Website](https://www.michaellalavedra.com) · [Explore all repositories](https://github.com/gitchaell?tab=repositories)
 
 </div>
