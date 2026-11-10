@@ -26,7 +26,7 @@ jobs:
           committer_message: "chore: update GitHub metrics [Skip GitHub Action]"
           base: header
           config_timezone: America/La_Paz
-          config_order: base.header, isocalendar, languages, habits, achievements
+          config_order: base.header, isocalendar, languages, habits
           config_display: large
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -38,6 +38,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_charts: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          extras_css: |
+            @media (prefers-color-scheme: dark) {
+              svg { color: #c9d1d9 !important; }
+              h1, h2, h3 { color: #79c0ff !important; }
+              .field svg { fill: #8b949e !important; }
+            }
