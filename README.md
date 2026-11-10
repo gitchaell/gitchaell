@@ -1,70 +1,45 @@
-<!--
-  GitHub profile README
-  Concise engineering profile with a theme-aware, self-generated metrics image.
--->
-
-<div align="center">
-
-# Michaell Alavedra
-
-**Software Engineer · Full-Stack Development · Software Architecture · Applied AI**
-
-Building reliable software products — from interfaces and APIs to architecture, testing, and delivery.
-
-[Portfolio](https://www.michaellalavedra.com) · [GitHub](https://github.com/gitchaell)
-
-</div>
-
----
-
-### Engineering focus
-
-**Product engineering**
-
-Frontend · Backend · Full Stack
-
-TypeScript · JavaScript · React · Angular · Node.js · NestJS
-
-**Architecture & quality**
-
-DDD · API design · Application security · QA & testing
-
-PostgreSQL · Firebase · AWS · GCP · Docker
-
-**AI-assisted development**
-
-Multi-agent workflows · Custom skills · Human-led code review
-
----
-
-### Selected work
-
-| Project | Focus |
-| --- | --- |
-| [DevTrack](https://devtrack.michaellalavedra.com) | Developer-habits tracker |
-| [PlayTS](https://playts.michaellalavedra.com) | TypeScript playground and editor |
-| [Exavatar](https://exavatar.michaellalavedra.com) | Avatar generation API |
-| [Angular VS Code Theme](https://marketplace.visualstudio.com/items?itemName=MichaellAlavedraMunayco.angular-theme) | VS Code theme for Angular developers |
-| [Irdin](https://irdin.michaellalavedra.com) | Language and writing system project |
-
-### GitHub activity
-
 <p align="center">
-  <img
-    src="./metrics.svg"
-    alt="GitHub contribution calendar, programming language distribution, and coding habits"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg" />
+    <img alt="Michaell Alavedra — software engineering terminal profile" src="./assets/profile-light.svg" width="100%" />
+  </picture>
 </p>
 
-<sub>Automatically generated from public GitHub activity. Language percentages describe repository code, not personal proficiency.</sub>
+<p align="center">
+  <a href="https://www.michaellalavedra.com">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/gitchaell">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/gitchaell?tab=repositories">Projects</a>
+</p>
 
----
+<details>
+  <summary><strong>Engineering experience</strong></summary>
 
-<div align="center">
+  **Software Engineering · 7 years**
 
-**Open to remote software engineering opportunities**
+  - Full-stack product development across frontend, backend, APIs, and cloud deployments.
+  - Architecture, domain-driven design, application security, and automated testing.
+  - AI-assisted engineering with coordinated agents, custom skills, and human-led review.
+</details>
 
-[Website](https://www.michaellalavedra.com) · [Explore all repositories](https://github.com/gitchaell?tab=repositories)
+<details>
+  <summary><strong>Core technologies</strong></summary>
 
-</div>
+  TypeScript · JavaScript · React · Angular · Node.js · NestJS · PostgreSQL · Firebase · AWS · GCP · Docker · Vitest · Playwright
+</details>
+
+<details>
+  <summary><strong>Selected projects</strong></summary>
+
+  - [DevTrack](https://devtrack.michaellalavedra.com) — developer-habits tracker.
+  - [PlayTS](https://playts.michaellalavedra.com) — TypeScript playground and editor.
+  - [Exavatar](https://exavatar.michaellalavedra.com) — avatar generation API.
+  - [Angular VS Code Theme](https://marketplace.visualstudio.com/items?itemName=MichaellAlavedraMunayco.angular-theme) — editor theme for Angular developers.
+  - [Irdin](https://irdin.michaellalavedra.com) — language and writing-system project.
+</details>
+
+<p align="center">
+  <sub>Building thoughtfully. Reviewing carefully. Improving continuously.</sub>
+</p>
