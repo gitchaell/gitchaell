@@ -5,8 +5,8 @@
 <circle cx="22" cy="21" r="5" fill="#ff5f56"/><circle cx="40" cy="21" r="5" fill="#ffbd2e"/><circle cx="58" cy="21" r="5" fill="#27c93f"/>
 <text x="82" y="26" fill="#8b949e" font-family="SFMono-Regular,Consolas,monospace" font-size="12">michaell@engineering: ~</text>
 <g font-family="SFMono-Regular,Consolas,monospace">
-<g fill="#79c0ff" font-size="13" font-weight="700">
-<text x="36" y="83">       .</text><text x="36" y="101">      ***</text><text x="36" y="119">   *   *   *</text><text x="36" y="137">      ***</text><text x="36" y="155">       *</text><text x="36" y="173">      ***</text><text x="36" y="191">       *</text>
+<g fill="#79c0ff" font-size="22" font-weight="700" text-anchor="middle">
+<text x="152" y="112">\ | /</text><text x="152" y="136"> \|/ </text><text x="152" y="160">---*---</text><text x="152" y="184"> /|\ </text><text x="152" y="208">/ | \</text>
 </g>
 <text x="36" y="235" fill="#8b949e" font-size="11">BUILD • REVIEW • IMPROVE</text>
 <text x="36" y="259" fill="#3fb950" font-size="11">[ SYSTEM ONLINE ]</text>
